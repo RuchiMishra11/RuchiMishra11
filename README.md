@@ -18,6 +18,12 @@
 
 ---
 
+### 📘 My Python Learning Repository  
+I’m documenting my Python concepts and daily practice here:  
+👉 [Visit the Python Learning Repo](https://github.com/RuchiMishra11/python)
+
+---
+
 ## 🧠 About Me
 - **Curious** — I always try to understand the real meaning behind things.
 - **Detail focused** — I like things to be clear, neat, and properly done. 
