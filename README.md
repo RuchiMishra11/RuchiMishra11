@@ -58,7 +58,7 @@ I’m documenting my Python concepts and daily practice here:
 <p align="center"><strong>Still learning. Still improving.</strong></p>
 <hr>
 
-�
+
 
 <!--
 **RuchiMishra11/RuchiMishra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
